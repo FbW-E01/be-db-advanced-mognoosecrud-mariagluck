@@ -1,0 +1,26 @@
+{
+  "name": "be-db-advanced-mognoosecrud-mariagluck",
+  "version": "1.0.0",
+  "description": "In this project you will find 6 files that I want you to complete",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-E01/be-db-advanced-mognoosecrud-mariagluck.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-E01/be-db-advanced-mognoosecrud-mariagluck/issues"
+  },
+  "homepage": "https://github.com/FbW-E01/be-db-advanced-mognoosecrud-mariagluck#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "faker": "^5.5.3",
+    "mongoose": "^6.0.9"
+  }
+}
